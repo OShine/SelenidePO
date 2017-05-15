@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SelenidePO.iml" filepath="$PROJECT_DIR$/SelenidePO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenide.iml" filepath="$PROJECT_DIR$/Selenide.iml" />
     </modules>
   </component>
 </project>
